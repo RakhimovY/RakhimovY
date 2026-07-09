@@ -16,32 +16,57 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">        `;i%MMkk@@@@@m(`           .'`</tspan>
-<tspan x="15" y="50">      :j%M@@@@@@@@@@@@@@k'        `,`,</tspan>
-<tspan x="15" y="70">     ;kkjjj%kMM@@@@@@@@@@M'       :;..</tspan>
-<tspan x="15" y="90">    `ilij%mkM%mk@@@@@@@@@@j       ,!''</tspan>
-<tspan x="15" y="110">    (kl!,:!l%@@M@@@@@@@@@@@`      `!``</tspan>
-<tspan x="15" y="130">   `k,  ..   :k@@@@@@@@@@@@;      `|,,</tspan>
-<tspan x="15" y="150">   .l!`,;!!!,.|kM@@@@@@Mkj|:'     `(,:</tspan>
-<tspan x="15" y="170">    .:|||(||||;liiiikkkkk|'!;`    `(:;</tspan>
-<tspan x="15" y="190">    . '`''`,:;!!||(ikkiiik|;      `l;!</tspan>
-<tspan x="15" y="210">     '..    .',,::``'''.;!,'      `i!|</tspan>
-<tspan x="15" y="230">                  .  ':|!`:`,:;;!,`l!:</tspan>
-<tspan x="15" y="250">      '`'.'. . .|;:|::!!;!ii;|lj@k`ji(</tspan>
-<tspan x="15" y="270">  .`,',`,''''. ,ikl'`,`,(;kM(!;((!,@@j</tspan>
-<tspan x="15" y="290">,;;;::: ',,,, .,!(i|:||l!!j@@@%kl(|i|!</tspan>
-<tspan x="15" y="310">.:::!!:  .`:,   .',lll(:iMmm@@@@@@@m|:</tspan>
-<tspan x="15" y="330">,.,,:|!'.  .`'.  '',``'!@k%l%@@@@@@@@M</tspan>
-<tspan x="15" y="350">l:'`,;|(('    .    ..  jkmj!!M@@@@@@@@</tspan>
-<tspan x="15" y="370">jj|,,:;||!'.      ..  l%%mil%@@M@@@@@@</tspan>
-<tspan x="15" y="390">km%i;,:;|!,'.    ., .jMkmmk@@@@M@@@@@@</tspan>
-<tspan x="15" y="410">M%m%k!::!|;'..     .imllm@@@@@@@@@@@M@</tspan>
-<tspan x="15" y="430">@%mk%i|!;|||'     .|||kk@@@@@MM@@@@@MM</tspan>
-<tspan x="15" y="450">@km%Mkmkiikk,   '`k@kM@@@@@@MM@@@M@@MM</tspan>
-<tspan x="15" y="470">@Mm%@@@Mk%mj(::lj:jMMMM@@@@MM@@@MM@MkM</tspan>
-<tspan x="15" y="490">@Mm%@@@@@@k%%k@@Mm%kkMM@@MMMM@@M%MMkk%</tspan>
-<tspan x="15" y="510">@kjmM@@@@@@MM@@@@@@%MMM@MkMMMMMk%Mk%%l</tspan>
+<text x="15" y="25" font-size="8px" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="25">                                                                      .;,.</tspan>
+<tspan x="15" y="35">                     .''.                                             '|:'</tspan>
+<tspan x="15" y="45">            .       ,jM@@(;::,`'.                                      .</tspan>
+<tspan x="15" y="55">             .':(ikmkMk%M@@@@@@@@Mkmi|,.</tspan>
+<tspan x="15" y="65">         ':|jk@@@@@@Mkmmm%%M@@@@@@@@@@@@j|`</tspan>
+<tspan x="15" y="75">     ,|k%M@@@@@@@M@@@@@@@@@@@@@@@@@@@@@@@@@%|'                          .',:</tspan>
+<tspan x="15" y="85">  'lk@@@MMMM@M@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@l.                       ,::,,</tspan>
+<tspan x="15" y="95"> ,kmmmmjj%%kMM@@@@@@@@@Mk@@@@@@@@@@@@@@@@@@@@@@M!                      :!:`'</tspan>
+<tspan x="15" y="105">!iiikjjjjmmk%MMM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@k                     :|;,.</tspan>
+<tspan x="15" y="115">iiikjjjjmjmjmkkkMMMM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@j                    :(;:'</tspan>
+<tspan x="15" y="125">liiikjjjjjjkjm%kkk%%%%kkM@@@@@@@@@@@@@@@@@@@@@@@@@@!                   ,(!:'</tspan>
+<tspan x="15" y="135">iiiiikkjjkjjkkkk%%%%mmmm%k@@@@@@@@@@@@@@@@@@@@@@@@@@.                  `(!;`</tspan>
+<tspan x="15" y="145">illllilijjm%ikkkkMkkkkkk%M@@@@@@@@@@@@@@@@@@@@@@@@@@(                  '(|;`</tspan>
+<tspan x="15" y="155">llllikikm%M@MM@@@@@M%kkkM@@@@@@@@@@@@@@@@@@@@@@@@@@@@.                 .(|;`</tspan>
+<tspan x="15" y="165">liki(!,'..`:;(kk@@@@MMkkMMM@@@@@@@@@@@@@@@@@@@@@@@@@@!                  (|;`</tspan>
+<tspan x="15" y="175">jl:.            `|%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%                  (|!`</tspan>
+<tspan x="15" y="185">'     .''...       :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.                 |(!,</tspan>
+<tspan x="15" y="195">     '`,::,``'.      j@M@MMMMMMMM@@@@@@@@@@@@@@@@@@@@l                  |(!,</tspan>
+<tspan x="15" y="205">    .`,,::::;;:`.    'kjkkMMMMMM@@@@@@@@@@@@@@@@@@@@@(                  |(!:</tspan>
+<tspan x="15" y="215">|'  '`,,::::::::'     k%mkMM@@@@@@@@@@@@@@@@@@@M%kl!'!l'                |l|:</tspan>
+<tspan x="15" y="225">il(;|l(((lll(llll(((|!(Mk%kMM@@@@@@@@@@@@M%mkil(|;,' '!k!               |l|;</tspan>
+<tspan x="15" y="235">lii(;(llllll(ll(liii(|!%jjk%mmm%%jkkl(||||(likkjk(,' :|;lk:             |l|;</tspan>
+<tspan x="15" y="245"> '|i;,!((||||||!;;!;;:,;|!|!;:,,:::|(likkjjjjkkkk(!':k!: `l!            (i|;</tspan>
+<tspan x="15" y="255">  '::'.````````'''''''''`::;!|(likjjjjjjkkkkkiiiiik:!k``   .            (i(;</tspan>
+<tspan x="15" y="265"> `,'```''``,:::;;!!|((((lliillllliikjjjjjjjjkkkiikj!,l(                 (i(;</tspan>
+<tspan x="15" y="275"> ','''''...'```,:;;!|(((||((||||((llll(|||;:;!!(iij:'(,                 (i(!</tspan>
+<tspan x="15" y="285">  .'..          ...'`,:;;::;;;;:```''.   . ..',;(k!.;l                  (k(!</tspan>
+<tspan x="15" y="295"> .                     ...''''.        ''`````:!(!.'!:                  lkl!</tspan>
+<tspan x="15" y="305">..'                        .'.          ....'`::' . ;.             ..   lkl!</tspan>
+<tspan x="15" y="315">     .       .              . .      .',;!!(kkl::, :(..`,;|||((lliill;  ikl!</tspan>
+<tspan x="15" y="325"> '  ,'                        :|:'   .'`:|ikk(,,l;`kj(;lil(|(kkiilkkk( .iil|</tspan>
+<tspan x="15" y="335"> ': ,`'.  ..             ,!|!' ;ki|:`..`:!||;,:li'(lkj;(|.;l,|!!iljM@( .ii(!</tspan>
+<tspan x="15" y="345">  ``.:`````,,'. ..'''   `(ij%m; ,likil(!!;;:::!!,;l|%kll,,kk!i|jMkM@@i 'i%%%</tspan>
+<tspan x="15" y="355">.'::``,`'''`,,,,,,`.   '`:(ijmml..,:;;;;:`''`:;!(i;;@@ii! ,!!((mmjjm%i 'i@@@</tspan>
+<tspan x="15" y="365"> '(.`:,`'.....         ',;(kmmmm(          ':(lll|'j@@Mki!,``';llli(li 'l@@@</tspan>
+<tspan x="15" y="375">`:|  .:::,`''''''`'    ';|(ijm%jmj, ':!||||||(((l'`m@@@@@@M%k!','   ,l ,kkji</tspan>
+<tspan x="15" y="385">`!!   .`::,,,,:;;;,. .'`,;!liikjikl,`:!|((((((ll,`|iM@M@@@@@@@kji(!;!l `kmM(</tspan>
+<tspan x="15" y="395">`!:     .,:::,,,,,'  .''``,;;!!,,(ll|!!||||((l|'!mjkmM@M@@@@@M@@@@@@@Mi(k!!!</tspan>
+<tspan x="15" y="405">:|,      .,::::,,`.       .    '(jkkkkkl(((|(!'!M%m%jjMM@@@@@@M@@@@@@@@@@l`.</tspan>
+<tspan x="15" y="415">;(:.       '`,::,,`.       '' :,;|iliiiill(|,'k@@%m%ml%@@@@@@@@@@@@@@@@@@@@m</tspan>
+<tspan x="15" y="425">!(:          ',,:,,'       `::;,::||:`,!ll!'.k@@@kkkmiiMM@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="435">|(!            ',:,'.            '',,'`,:,. |MMkkkMkmj(jM@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="445">||((;:`          .''``'.    ...`,:,:,`.    `mMMkkkk%mm(!k@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="455">!||(lik|`            '``'   ......','      !%kkkk%%mji!,ljm@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="465">;!|||!|il'   .                    '`      '(%%k%%mjjk(;;l,j@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="475">;;!|||!;l(. ..'                           li%k%%mjjki(||,k@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="485">:;;!|||!:(!...'                   ..    .;mjjkj%mjmjkl!!k@@@@@@@MM@@@@@@@@@@</tspan>
+<tspan x="15" y="495">::;!||||!:!,.''.              .'',`    'ijm@mmm%%%mk||j@@@@@@@@@MM@@@@@@@@@@</tspan>
+<tspan x="15" y="505">:::;!||||!::`'`'              ',;,    'kk%m@kkk%%jll%@@@@@@@@@@@MM@@@@@@@@@@</tspan>
+<tspan x="15" y="515">,,::;!|||!!:,`'`.            `:;`    'i%kkjk@M%jikk@@@@@@@@@@@@@MM@@@@@@@@@M</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">yerkebulan@rakhimov</tspan> ────────────────────────────────────────
